@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnhancedPdfExport", "EnhancedPdfExport\EnhancedPdfExport.csproj", "{8823E12B-3ED3-4DB6-9FC1-B273B3D2FCFB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EnhancedPdfExportInstaller", "EnhancedPdfExportInstaller\EnhancedPdfExportInstaller.vdproj", "{5D513FAE-E9E5-42BE-8C5E-3FEB7D4138FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8823E12B-3ED3-4DB6-9FC1-B273B3D2FCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8823E12B-3ED3-4DB6-9FC1-B273B3D2FCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8823E12B-3ED3-4DB6-9FC1-B273B3D2FCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8823E12B-3ED3-4DB6-9FC1-B273B3D2FCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D513FAE-E9E5-42BE-8C5E-3FEB7D4138FF}.Debug|Any CPU.ActiveCfg = Debug
+		{5D513FAE-E9E5-42BE-8C5E-3FEB7D4138FF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
